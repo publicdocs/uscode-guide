@@ -1,3 +1,7 @@
+---
+---
+
+```
 NOTICE - COPYRIGHT, TERMS AND CONDITIONS
 
 The https://github.com/publicdocs project (the "Project") content,
@@ -35,3 +39,4 @@ content and its metadata:
 5) may be used only for educational or informational purposes.
 
 This notice may not be removed from copies of this document.
+```
