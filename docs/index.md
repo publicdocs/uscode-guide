@@ -4,7 +4,7 @@
 # uscode-guide
 A guide to using [https://github.com/publicdocs/uscode](https://github.com/publicdocs/uscode).
 
-Use of this project is subject to the [NOTICE](NOTICE).
+Use of this project is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE).
 
 ## Basic How-To
 Each component of a title all the way down to a section has its own Markdown file, which is similar to plain text, but with some formatting.
@@ -17,4 +17,4 @@ The conversion from the format used by the original government data to this proj
 
 ----
 
-Copyright &copy; 2016 the authors of the https://github.com/publicdocs project. Use subject to the [NOTICE](NOTICE).
+Copyright &copy; 2016 the authors of the https://github.com/publicdocs project. Use subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE).
